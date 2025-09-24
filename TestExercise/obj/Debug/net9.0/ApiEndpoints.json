@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "TestExercise.Controllers.PlatformsController",
+    "Method": "GetPlatforms",
+    "RelativePath": "api/Platforms/platforms/{location}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "location",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestExercise.Controllers.PlatformsController",
+    "Method": "Upload",
+    "RelativePath": "api/Platforms/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
