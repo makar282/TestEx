@@ -6,7 +6,7 @@
 1. **Клонировать репозиторий:**
 ```bash
 git clone https://github.com/makar282/TestEx.git
-cd TestExercise
+cd TestEx
 ```
 2. **Сборка проекта:**
 ```bash
@@ -16,10 +16,8 @@ dotnet build
 ```bash
 dotnet run --project TestExercise
 ```
-По умолчанию сервис доступен по адресу:
-[https://localhost:7240/](https://localhost:7240/)
 Swagger UI:
-[https://localhost:7240/swagger/index.html](https://localhost:7240/swagger/index.html)
+https://localhost:{порт}/swagger/index.html
 
 ## API
 
