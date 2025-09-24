@@ -5,7 +5,7 @@
 
 1. **Клонировать репозиторий:**
 ```bash
-git clone https://github.com/yourusername/TestExercise.git
+git clone https://github.com/makar282/TestEx.git
 cd TestExercise
 ```
 2. **Сборка проекта:**
